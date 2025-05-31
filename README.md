@@ -22,7 +22,6 @@ This project demonstrates the application of GPU acceleration using **PyCUDA** t
 - [NumPy](https://numpy.org/)
 - [PyCUDA](https://documen.tician.de/pycuda/)
 - [Matplotlib](https://matplotlib.org/)
-- [OpenCV](https://opencv.org/) *(optional: for further image manipulation)*
 
 ---
 
